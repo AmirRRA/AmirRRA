@@ -2,7 +2,7 @@
 - 👀 I’m interested in python lan
 - 🌱 I’m currently learning python
 - 📫 How to reach me : 
-- instagram = ammir_rastegar
+- instagram = ammir.rastegar
 
 <!---
 AmirRRA/AmirRRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
