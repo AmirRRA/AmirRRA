@@ -107,9 +107,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirRRA&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="AmirRRA's Stats" height="180" />
+  <!-- Custom Colored Stats to match Team Logo (Dark Blue & Cyan) -->
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRRA&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=demo-repository" alt="Top Languages" height="180" />
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirRRA&show_icons=true&bg_color=0e1225&title_color=00eaff&text_color=ffffff&icon_color=00eaff&border_color=00eaff&hide_border=true&count_private=true" alt="AmirRRA's Stats" height="180" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRRA&layout=compact&bg_color=0e1225&title_color=00eaff&text_color=ffffff&hide_border=true&langs_count=6&exclude_repo=demo-repository" alt="Top Languages" height="180" />
+</div>
+
+<br />
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRRA&background=0e1225&ring=00eaff&fire=00eaff&currStreakLabel=00eaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
