@@ -2,7 +2,7 @@
   
   <!-- TEAM LOGO -->
   <!-- Please upload your logo image as 'logo.png' to your repository root -->
-  <img src="./logo.png" alt="Amir Rastegar Team Logo" width="220" />
+  <img src="./Amir.R.A.jpg" alt="Amir Rastegar Team Logo" width="220" />
 
   <br /><br />
 
@@ -114,4 +114,3 @@
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRRA&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=demo-repository" alt="Top Languages" height="180" />
 </div>
-![Amir R A](https://github.com/user-attachments/assets/0f11426c-03dd-4c22-b1b7-bd90b124bf04)
