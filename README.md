@@ -108,12 +108,13 @@
 
 <div align="center">
   <!-- Custom Colored Stats to match Team Logo (Dark Blue & Cyan) -->
+  <!-- Added 'include_all_commits=true' to count everything including C# commits -->
   
   <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirRRA&show_icons=true&bg_color=0e1225&title_color=00eaff&text_color=ffffff&icon_color=00eaff&border_color=00eaff&hide_border=true&count_private=true" alt="AmirRRA's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirRRA&show_icons=true&bg_color=0e1225&title_color=00eaff&text_color=ffffff&icon_color=00eaff&border_color=00eaff&hide_border=true&count_private=true&include_all_commits=true" alt="AmirRRA's Stats" height="180" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRRA&layout=compact&bg_color=0e1225&title_color=00eaff&text_color=ffffff&hide_border=true&langs_count=6&exclude_repo=demo-repository" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRRA&layout=compact&bg_color=0e1225&title_color=00eaff&text_color=ffffff&hide_border=true&langs_count=8&exclude_repo=demo-repository&count_private=true" alt="Top Languages" height="180" />
 </div>
 
 <br />
