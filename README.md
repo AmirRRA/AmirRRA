@@ -2,7 +2,7 @@
   
   <!-- TEAM LOGO -->
   <!-- Please upload your logo image as 'logo.png' to your repository root -->
-  <img src="./Amir.R.A.jpg" alt="Amir Rastegar Team Logo" width="220" />
+  <img src="./logo-Noback.png" alt="Amir Rastegar Team Logo" width="220" />
 
   <br /><br />
 
